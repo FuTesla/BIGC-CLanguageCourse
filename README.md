@@ -1,8 +1,8 @@
 # 大一作业集 | Freshman Year Assignments
 
 欢迎来到我的大一作业仓库！这里记录了我大学第一年的一些编程练习和课程项目，主要包括部分周次作业和一个使用MFC编写的计算器期末大作业。
-学校：BIGC
-专业：数字谜题技术（数字媒体技术）
+### 学校：BIGC
+### 专业：数字谜题技术（数字媒体技术）
 
 Welcome to my freshman year assignments repository! This repository records some of my programming exercises and course projects from my first year of university, including weekly assignments and a final calculator project written using MFC.
 
