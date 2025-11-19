@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\File\\Project\\Code\\C\u002B\u002B\\Week7\\7-3\\7-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3920CA0B-1396-4E49-8C01-02DB71E2B820}|7-3.vcxproj|D:\\File\\Project\\Code\\C\u002B\u002B\\Week7\\7-3\\7-3\\7-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3920CA0B-1396-4E49-8C01-02DB71E2B820}|7-3.vcxproj|solutionrelative:7-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7-3.cpp",
+              "DocumentMoniker": "D:\\File\\Project\\Code\\C\u002B\u002B\\Week7\\7-3\\7-3\\7-3.cpp",
+              "RelativeDocumentMoniker": "7-3.cpp",
+              "ToolTip": "D:\\File\\Project\\Code\\C\u002B\u002B\\Week7\\7-3\\7-3\\7-3.cpp",
+              "RelativeToolTip": "7-3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T04:05:40.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

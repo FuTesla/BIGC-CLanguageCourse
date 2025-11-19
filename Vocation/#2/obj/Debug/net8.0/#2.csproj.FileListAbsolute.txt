@@ -1,0 +1,14 @@
+D:\File\Project\Code\C++\Vocation\#2\bin\Debug\net8.0\#2.exe
+D:\File\Project\Code\C++\Vocation\#2\bin\Debug\net8.0\#2.deps.json
+D:\File\Project\Code\C++\Vocation\#2\bin\Debug\net8.0\#2.runtimeconfig.json
+D:\File\Project\Code\C++\Vocation\#2\bin\Debug\net8.0\#2.dll
+D:\File\Project\Code\C++\Vocation\#2\bin\Debug\net8.0\#2.pdb
+D:\File\Project\Code\C++\Vocation\#2\obj\Debug\net8.0\#2.GeneratedMSBuildEditorConfig.editorconfig
+D:\File\Project\Code\C++\Vocation\#2\obj\Debug\net8.0\#2.AssemblyInfoInputs.cache
+D:\File\Project\Code\C++\Vocation\#2\obj\Debug\net8.0\#2.AssemblyInfo.cs
+D:\File\Project\Code\C++\Vocation\#2\obj\Debug\net8.0\#2.csproj.CoreCompileInputs.cache
+D:\File\Project\Code\C++\Vocation\#2\obj\Debug\net8.0\#2.dll
+D:\File\Project\Code\C++\Vocation\#2\obj\Debug\net8.0\refint\#2.dll
+D:\File\Project\Code\C++\Vocation\#2\obj\Debug\net8.0\#2.pdb
+D:\File\Project\Code\C++\Vocation\#2\obj\Debug\net8.0\#2.genruntimeconfig.cache
+D:\File\Project\Code\C++\Vocation\#2\obj\Debug\net8.0\ref\#2.dll
