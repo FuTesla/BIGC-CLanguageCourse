@@ -45,7 +45,7 @@ This is a graphical interface calculator developed using the **Microsoft Foundat
 
 ## 📧 联系我 | Contact
 
-- GitHub: [你的GitHub用户名]
+- GitHub: FuTesla（Github和PUBG同名！）
 - 邮箱: leo051214@126.com
 
 ---
