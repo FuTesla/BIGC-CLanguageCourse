@@ -9,19 +9,6 @@ Welcome to my freshman year assignments repository! This repository records some
 ## 📚 作业目录 | Directory
 
 - **周次作业 | Weekly Assignments**: 一些基础编程练习，涵盖C语法。
-- **期末大作业 | Final Project**: 一个基于MFC的图形界面计算器。
-
-## 🧮 MFC计算器项目 | MFC Calculator Project
-
-这是一个使用**Microsoft Foundation Classes (MFC)** 框架开发的图形界面计算器，是我接触Windows桌面应用开发的第一个实践项目。
-
-This is a graphical interface calculator developed using the **Microsoft Foundation Classes (MFC)** framework, which was my first hands-on project in Windows desktop application development.
-
-### ✨ 功能特点 | Features
-
-- 基本四则运算（加、减、乘、除）
-- 清晰的图形用户界面
-- 简单的表达式计算
 
 ### 🚀 运行指南 | How to Run
 
@@ -33,8 +20,6 @@ This is a graphical interface calculator developed using the **Microsoft Foundat
 
 通过完成这些作业，我初步掌握了：
 - C面向对象编程概念
-- MFC框架的基本使用
-- 图形界面程序的事件处理机制
 - 软件项目的基本开发流程
 
 ## 🤝 使用说明 | Usage Notes
